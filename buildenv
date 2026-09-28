@@ -1,3 +1,4 @@
+# bump: git-version /GIT_VERSION="(.*)"/ https://github.com/IBM/zos-pstree.git|*
 export ZOPEN_STABLE_URL="https://github.com/IBM/zos-pstree.git"
 export ZOPEN_STABLE_DEPS="make moreutils check_go coreutils"
 export ZOPEN_DEV_URL="https://github.com/IBM/zos-pstree.git"
